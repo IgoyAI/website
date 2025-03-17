@@ -15,19 +15,23 @@
       "headingKeywords": {}
     },
     {
-      "src": "contents/dashboard.md",
-      "title": "Assignment Dashboard",
-      "headings": {
-        "assignment-dashboard": "Assignment Dashboard"
-      },
+      "src": "contents/topic1.md",
+      "headings": {},
       "headingKeywords": {}
     },
     {
-      "src": "contents/instructors.md",
-      "title": "Instructors",
-      "headings": {
-        "instructors": "Instructors"
-      },
+      "src": "contents/topic2.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3a.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3b.md",
+      "headings": {},
       "headingKeywords": {}
     },
     {
